@@ -1,0 +1,13 @@
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\bin\Debug\netcoreapp3.1\Ref_Out.exe
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\bin\Debug\netcoreapp3.1\Ref_Out.deps.json
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\bin\Debug\netcoreapp3.1\Ref_Out.runtimeconfig.json
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\bin\Debug\netcoreapp3.1\Ref_Out.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\bin\Debug\netcoreapp3.1\Ref_Out.dll
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\bin\Debug\netcoreapp3.1\Ref_Out.pdb
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\obj\Debug\netcoreapp3.1\Ref_Out.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\obj\Debug\netcoreapp3.1\Ref_Out.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\obj\Debug\netcoreapp3.1\Ref_Out.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\obj\Debug\netcoreapp3.1\Ref_Out.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\obj\Debug\netcoreapp3.1\Ref_Out.dll
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\obj\Debug\netcoreapp3.1\Ref_Out.pdb
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\Ref_Out\Ref_Out\obj\Debug\netcoreapp3.1\Ref_Out.genruntimeconfig.cache
