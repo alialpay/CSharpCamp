@@ -1,0 +1,12 @@
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache
