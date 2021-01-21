@@ -1,0 +1,13 @@
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.exe
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.deps.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.genruntimeconfig.cache
