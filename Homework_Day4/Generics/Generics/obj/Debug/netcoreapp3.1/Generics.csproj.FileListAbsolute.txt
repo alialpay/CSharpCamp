@@ -1,0 +1,13 @@
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day4\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
