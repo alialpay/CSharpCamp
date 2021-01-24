@@ -1,0 +1,13 @@
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\alial\OneDrive\Belgeler\VisualStudioProjects\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
