@@ -1,0 +1,13 @@
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Working\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
