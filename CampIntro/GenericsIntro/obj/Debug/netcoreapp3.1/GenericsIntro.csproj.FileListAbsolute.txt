@@ -1,0 +1,12 @@
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache

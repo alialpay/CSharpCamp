@@ -4,6 +4,7 @@ using System.Text;
 
 namespace GenericsIntro
 {
+    //Constructor
     class MyList<T>
     {
        // <T> .Bu, ben MyList imde T ile çalışacağım demek. T yerine string yazsaydık sadece stringe bağlı kalırdık. 
@@ -25,5 +26,16 @@ namespace GenericsIntro
             items[items.Length - 1] = item;
 
         }
+        public int Lentgth
+        {
+            get { return items.Length; }
+        }
+
+        public T[] Items
+        {
+            get { return items; }
+        }
+
+
     }
 }
