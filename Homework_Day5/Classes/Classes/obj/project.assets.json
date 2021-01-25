@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Classes\\Classes.csproj",
+      "projectUniqueName": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Classes\\Classes.csproj",
       "projectName": "Classes",
-      "projectPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Classes\\Classes.csproj",
+      "projectPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Classes\\Classes.csproj",
       "packagesPath": "C:\\Users\\alial\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Classes\\obj\\",
+      "outputPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Classes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alial\\AppData\\Roaming\\NuGet\\NuGet.Config",

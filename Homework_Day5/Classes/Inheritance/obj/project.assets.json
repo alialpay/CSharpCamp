@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Inheritance\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Inheritance\\Inheritance.csproj",
+      "projectPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Inheritance\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\alial\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Inheritance\\obj\\",
+      "outputPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alial\\AppData\\Roaming\\NuGet\\NuGet.Config",

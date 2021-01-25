@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Interfaces\\Interfaces.csproj": {}
+    "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Interfaces\\Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Interfaces\\Interfaces.csproj": {
+    "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Interfaces\\Interfaces.csproj",
+        "projectPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\alial\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Working\\Classes\\Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day5\\Classes\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alial\\AppData\\Roaming\\NuGet\\NuGet.Config",
