@@ -7,14 +7,26 @@ using System.Linq;
 
 namespace InterfaceAbstractDemo.Concrete
 {
-    public class StarbucksCustomerManager:BaseCustomerManager
+    public class StarbucksCustomerManager:BaseCustomerManager 
     {
-        public override void Save(Customer customer)
+        private ICustomerCheckService _customerCheckService;
+
+        public StarbucksCustomerManager(ICustomerCheckService customerCheckService)
         {
-            CheckIfRealPerson(customer);
-            base.Save(customer);
+            _customerCheckService = customerCheckService;
         }
 
-        
+        public override void Save(Customer customer)
+        {
+            if (_customerCheckService.CheckIfRealPerson(customer))
+            {
+                base.Save(customer);
+            }
+            else
+            {
+                Console.WriteLine("Not a valid person");
+            }
+        }
+
     }
 }

@@ -5,8 +5,8 @@ using System.Text;
 
 namespace InterfaceAbstractDemo.Abstract
 {
-    interface ICustomerCheckService
+    public interface ICustomerCheckService
     {
-        void CheckIfRealPerson(Customer customer);
+        bool CheckIfRealPerson(Customer customer);
     }
 }

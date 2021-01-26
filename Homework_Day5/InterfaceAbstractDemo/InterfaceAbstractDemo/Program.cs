@@ -1,4 +1,5 @@
 ﻿
+using InterfaceAbstractDemo.Adapters;
 using InterfaceAbstractDemo.Concrete;
 using InterfaceAbstractDemo.Entities;
 using System;
@@ -9,8 +10,9 @@ namespace InterfaceAbstractDemo
     {
         static void Main(string[] args)
         {
-            Abstract.BaseCustomerManager customerManager = new NeroCustomerManager();
-            customerManager.Save(new Customer {DateOfBirth = new DateTime(1996,03,23), FirstName = "Ali", LastName = "Alpay" , Id = 123, NationalityId= "741852963"});
+            Abstract.BaseCustomerManager customerManager = new StarbucksCustomerManager(new MernisServiceAdapter());
+            customerManager.Save(new Customer {DateOfBirth = 1996, FirstName = "MUHAMMED ALİ", LastName = "ALPAY" , Id = 123, NationalityId= 13324058152});
+            Console.ReadLine();
         }
     }
 }
