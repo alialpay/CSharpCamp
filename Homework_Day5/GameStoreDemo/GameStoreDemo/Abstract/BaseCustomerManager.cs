@@ -8,24 +8,45 @@ namespace GameStoreDemo.Abstract
 {
     public abstract class BaseCustomerManager : ICustomerService, IGameService
     {
-        public void Add(Player player)
+
+        public void Add(IEntity player)
         {
-            Console.WriteLine("Oyuncu listeye eklendi.");
+            throw new NotImplementedException();
         }
 
         public void Add(Game game)
         {
-            Console.WriteLine("Oyun satışı gerçekleşti : " + game);
+            throw new NotImplementedException();
         }
 
-        public void Delete(Player player)
+        public void Delete(IEntity player)
         {
-            Console.WriteLine("Kullanıcı bilgileri silindi.");
+            throw new NotImplementedException();
+        }
+
+        public void Delete(Game game)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void GetAllGames()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void GetGame(Game game)
+        {
+            throw new NotImplementedException();
         }
 
         public virtual void Save(Player player)    // virtual anahtar kelimesi bu metodun ezilebilmesini sağlar
         {
-            Console.WriteLine("Kullanıcı sisteme kaydedildi : " + player.FirstName );
+            Console.WriteLine("Kullanıcı sisteme kaydedildi : " + player.FirstName);
+        }
+
+        public void Save(IEntity player)
+        {
+            throw new NotImplementedException();
         }
 
         public void Update(Game game)

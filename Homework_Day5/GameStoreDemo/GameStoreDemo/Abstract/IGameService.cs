@@ -7,7 +7,10 @@ namespace GameStoreDemo.Abstract
 {
     public interface IGameService
     {
-        void Add(IEntity game);
-        void Update(IEntity game);
+        public void Add(Game game);
+        public void Delete(Game game);
+        public void Update(Game game);
+        public void GetGame(Game game);
+        public void GetAllGames();
     }
 }

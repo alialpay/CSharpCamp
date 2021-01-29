@@ -12,5 +12,7 @@ namespace GameStoreDemo.Entities
         public string LastName { get; set; }
         public int DateOfBirth { get; set; }
         public long NationalityId { get; set; }
+        public double Balance { get; set; }
+        public List<string> HaveGame;
     }
 }
