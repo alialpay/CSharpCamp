@@ -1,7 +1,7 @@
 ﻿namespace GameStoreDemo.Abstract
 {
-    public interface IEntity
+    public class BaseCustomerManager
     {
-       
+        
     }
 }
