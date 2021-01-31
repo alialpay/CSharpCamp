@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/686mZ/qYb2Gi2os3VK5m0WIdDPJD2VWFiqEM/2aWcAwiDYOKE77rwdPwcSMcvOlqe1Y/X8t7qHf7OwcHyGNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day7\\ReCapProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alial\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alial\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

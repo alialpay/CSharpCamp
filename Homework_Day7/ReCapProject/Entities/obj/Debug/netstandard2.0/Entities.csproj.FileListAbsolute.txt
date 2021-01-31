@@ -1,0 +1,9 @@
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
