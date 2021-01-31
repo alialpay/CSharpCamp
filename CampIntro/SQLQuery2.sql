@@ -58,3 +58,11 @@ where o.CustomerID is null				  -- Üye oldun ama ürün almadın. Sana Özel ka
 
 
 -- bir de right join var. left join in tam tersi. yine aynı mantıkla. sağda olup solda olmayanları getiriyor
+
+SELECT Products.ProductName AS [Ürün Adı], 
+Sum(OrderDetails.UnitPrice * OrderDetails.Quantity) AS [Kazanılan Toplam Miktar]
+from Products
+join [Order Details] OrderDetails ON OrderDetails.ProductID = Products.ProductID
+jOiN Orders ON OrderDetails.OrderID = Orders.OrderID
+Group BY Products.ProductName
+Order BY Products.ProductName
