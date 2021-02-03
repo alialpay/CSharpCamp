@@ -1,0 +1,13 @@
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.exe
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.deps.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day7\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.genruntimeconfig.cache
