@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alial\\OneDrive\\Belgeler\\VisualStudioProjects\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo.csproj": {}
+    "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day8\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alial\\OneDrive\\Belgeler\\VisualStudioProjects\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo.csproj": {
+    "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day8\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alial\\OneDrive\\Belgeler\\VisualStudioProjects\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo.csproj",
+        "projectUniqueName": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day8\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo.csproj",
         "projectName": "EntityFrameworkDemo",
-        "projectPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\VisualStudioProjects\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo.csproj",
+        "projectPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day8\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo.csproj",
         "packagesPath": "C:\\Users\\alial\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\VisualStudioProjects\\EntityFrameworkDemo\\EntityFrameworkDemo\\obj\\",
+        "outputPath": "C:\\Users\\alial\\OneDrive\\Belgeler\\GitHub\\kodlama.io\\Homework_Day8\\EntityFrameworkDemo\\EntityFrameworkDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alial\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,10 @@
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.11, )"
             }
