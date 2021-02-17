@@ -1,0 +1,13 @@
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\bin\Debug\netcoreapp3.1\Attributes.exe
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\bin\Debug\netcoreapp3.1\Attributes.deps.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\bin\Debug\netcoreapp3.1\Attributes.runtimeconfig.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\bin\Debug\netcoreapp3.1\Attributes.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\bin\Debug\netcoreapp3.1\Attributes.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\bin\Debug\netcoreapp3.1\Attributes.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\obj\Debug\netcoreapp3.1\Attributes.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\obj\Debug\netcoreapp3.1\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\obj\Debug\netcoreapp3.1\Attributes.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\obj\Debug\netcoreapp3.1\Attributes.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Attributes\Attributes\obj\Debug\netcoreapp3.1\Attributes.genruntimeconfig.cache
