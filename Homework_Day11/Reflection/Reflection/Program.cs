@@ -27,7 +27,20 @@ namespace Reflection
 
             Console.WriteLine(methodInfo.Invoke(instance,null));
 
+            var metotlar = type.GetMethods();
 
+            foreach (var info in metotlar)
+            {
+                Console.WriteLine("Metot adı : {0}", info.Name);
+                foreach (var parameterInfo in info.GetParameters())
+                {
+                    Console.WriteLine("Parametre : {0}", parameterInfo.Name);
+                }
+                foreach (var attribute in info.GetCustomAttributes())
+                {
+                    Console.WriteLine("Attribute Name : {0}", attribute.GetType().Name);
+                }
+            }
 
         }
     }
@@ -52,9 +65,17 @@ namespace Reflection
         {
             return _sayi1 + _sayi2;
         }
+        [MethodName("Carpma")]
         public int Carp2()
         {
             return _sayi1 * _sayi2;
         }
+        class MethodNameAttribute : Attribute
+        {
+            public MethodNameAttribute(string name)
+            {
+                
+            }
+        } 
     }
 }
