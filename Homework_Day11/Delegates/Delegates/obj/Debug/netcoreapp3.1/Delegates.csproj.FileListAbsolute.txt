@@ -1,0 +1,13 @@
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\alial\OneDrive\Belgeler\GitHub\kodlama.io\Homework_Day11\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
